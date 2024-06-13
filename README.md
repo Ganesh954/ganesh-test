@@ -23,10 +23,10 @@ Follow these steps to install:
 2. To get started, create a `.env` file in the root directory of the project.
 
 3. To load the variables from .env file into process.env, making them accessible throughout the application, add the below two lines of code at the beginning of app.js file(Backend file).
-
+```
 const dotenv = require('dotenv')
 dotenv.config('.env')
-
+```
 ## Running the application
 
 Run the below two commands in the terminal of root directory of the project
