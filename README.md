@@ -3,8 +3,9 @@ RSD Application
 
 ## cloning the repository
 1. In command prompt, navigate to the folder you want to clone and then type the below command by replacing the approprioate paramaters.
-##
+'''
   git clone <git repository url> <project name>
+'''
 
 ## Installation of package dependencies using npm
 1.To run the project, you need to install the necessary dependencies, including `dotenv` for managing environment variables.
